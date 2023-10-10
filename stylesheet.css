@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Oswald&display=swap');
+body{
+    margin:0;
+    padding:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    background:#ecf0f3;
+    font-family:'Oswald';
+}
+.container{
+    padding:20px;
+    margin:20px;
+    box-shadow:13px 13px 20px #cbced1, -13px -13px 20px #ffffff;
+    border-radius:3px;
+}
+#search{
+    border:none;
+    width:190px;
+    font-family:'Oswald';
+    font-size:x-large;
+    text-align:center;
+}
+.weather{
+    text-align:center;
+}
